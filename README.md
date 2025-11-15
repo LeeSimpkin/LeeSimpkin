@@ -1,6 +1,8 @@
 <h2 align="left">Hi ! My name is Lee and I'm a student from Hull</h2>
 
 ###
+<h3 align="left"> About me </h3>
+
 
 <p align="left">I'm a third year student at the University of Hull studying MEng Computer Science for Games Programming! I am very passionate about game development and love exploring new game engines, graphics programming and AI in games!</p>
 
@@ -15,7 +17,7 @@
 ###
 
 ###
-
+<h3 align="left">Skills</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -29,6 +31,8 @@
 </div>
 
 ###
+
+<h3 align="left"> Find me on my socials</h3>
 
 <div align="left">
   <a href="https://discord.com/users/722812634856161282" target="_blank">
