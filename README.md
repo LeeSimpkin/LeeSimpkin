@@ -4,9 +4,10 @@
 <h3 align="left"> About me </h3>
 
 
-<p align="left">I'm a third year student at the University of Hull studying MEng Computer Science for Games Programming! I am very passionate about game development and love exploring new game engines, graphics programming and AI in games!</p>
-
-###
+<p align="left">I'm a third year student at the University of Hull studying MEng Computer Science for Games Programming! I am very passionate about game development and love exploring new game engines, graphics programming and AI in games! </p>
+<p align="left">- I am currently developing a dynamic game engine tool that will take LLM inputs for NPC dialogue for my honors project </p>
+<p align="left">- I love developing games in Monogame and Unity </p>
+<p align="left">- i plan on furthering my skills with UnrealEngine and C++ games development</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LeeSimpkin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
