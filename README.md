@@ -4,7 +4,7 @@
 <h3 align="left"> About me </h3>
 
 
-<p align="left">I'm a third year student at the University of Hull studying MEng Computer Science for Games Programming! I am very passionate about game development and love exploring new game engines, graphics programming and AI in games! </p>
+<p align="left">I'm a third year student at the University of Hull studying BSc Computer Science for Games Programming! I am very passionate about game development and love exploring new game engines, graphics programming and AI in games! </p>
 <p align="left">- I am currently developing a dynamic game engine tool that will take LLM inputs for NPC dialogue for my honors project </p>
 <p align="left">- I love developing games in Monogame and Unity </p>
 <p align="left">- i plan on furthering my skills with UnrealEngine and C++ games development</p>
